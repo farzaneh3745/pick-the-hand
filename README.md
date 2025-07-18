@@ -19,4 +19,4 @@ Make sure Python is installed.
 Then run the script like this:
 
 ```bash
-python pick_the_hand.py
+python GolyaPuch.py
